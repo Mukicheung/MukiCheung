@@ -1,1 +1,7 @@
-视频创作者 · AI 产品经理 · 3D 建模设计师。
+<p align="center">
+  <samp>
+    <a href="https://letmedrive.cn">let me drive</a> ·
+    <a href="https://github.com/tainanzhui/epidemic-sound-zh">epidemic sound zh</a> ·
+    <a href="https://github.com/tainanzhui?tab=repositories">projects</a>
+  </samp>
+</p>
